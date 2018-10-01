@@ -14,9 +14,9 @@ pygmentsUseClasses = true # new add
 disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "Yusuke Ishimi" # Author's name.
-    info = "WEB AND APPS ENGINEER" # Author's job title or info.
-    description = "Yusuke Ishimi's personal website" # Site description.
+    author = "Omari R. Blackman" # Author's name.
+    info = "SOFTWARE ENGINEER" # Author's job title or info.
+    description = "Omari Blackman's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
