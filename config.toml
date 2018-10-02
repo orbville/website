@@ -1,4 +1,4 @@
-baseurl = "http://orbville.me" # Hostname (and path) to the root.
+baseurl = "https://orbville.me" # Hostname (and path) to the root.
 title = "Orbville" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
